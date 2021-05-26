@@ -1,2 +1,2 @@
 # memeEconBot2.0
-testing, testing
+My second iteration of the MemeEconFirm project!
